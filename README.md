@@ -1,4 +1,4 @@
-![Rspress](https://user-images.githubusercontent.com/2342458/230581871-dc3c1c5f-91a2-484c-8b5c-5065a6b99ff0.png)
+![rspress](https://github.com/palmiak/hello-world-rspress/assets/2342458/c196cb32-9cc2-4e78-806f-4689582d3656)
 # Kinsta - Hello World - Static Site With Rspress 🚀
 
 An example of how to deploy a static site built with Rspress on Kinsta Hosting.
