@@ -32,7 +32,7 @@ After connecting the repository, **Static Site Hosting** will automatically try 
 |---|---|
 | Build command | `npm run build` |
 | Node version  |  16.20.0  |
-| Publish directory | `doc_public`  |
+| Publish directory | `doc_build`  |
 
 ### Deployment Lifecycle
 
