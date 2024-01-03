@@ -1,4 +1,3 @@
-![rspress](https://github.com/kinsta/hello-world-rspress/assets/2342458/3bc8341e-a7df-4641-9f80-a29f81ae372a)
 # Kinsta - Hello World - Static Site With Rspress 🚀
 
 An example of how to deploy a static site built with Rspress on Kinsta Hosting.

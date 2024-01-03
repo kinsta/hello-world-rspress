@@ -6,13 +6,12 @@
     "dev": "rspress dev",
     "build": "rspress build",
     "preview": "rspress preview",
-    "start": "serve doc_build/"
+    "start": "npx -y serve doc_build/"
   },
   "dependencies": {
-    "rspress": "^0.1.1",
-    "serve": "^14.2.1"
+    "rspress": "^1.9.2"
   },
   "devDependencies": {
-    "@types/node": "^14"
+    "@types/node": "^18"
   }
 }
